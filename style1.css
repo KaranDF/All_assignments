@@ -1,0 +1,9 @@
+body{
+    background-color:khaki;
+    height: 2980;
+}
+
+tr{
+    position: sticky;
+    top: 12px;
+}
