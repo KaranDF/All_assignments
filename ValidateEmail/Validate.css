@@ -1,0 +1,32 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+.container{
+    position: absolute;
+    left: 30%;
+    top: 22%;
+    height: 30%;
+    padding: 50px 50px;
+    width: 32%;
+    border-radius: 8px;
+    background-color: #323333;
+}
+
+h1{
+    color: white;
+}
+
+input{
+    height: 20px;
+    width: 60%;
+    padding:8px;
+}
+button{
+    height: 40px;
+    
+    width: 68px;
+    
+}
